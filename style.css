@@ -7,3 +7,8 @@
     font-size: 50px;
     font-weight: bold;
 }
+
+.card-text {
+    text-align: justify;
+    text-justify: inter-word;
+}
