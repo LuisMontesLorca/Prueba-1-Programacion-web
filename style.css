@@ -2,3 +2,8 @@
     text-align: justify;
     text-justify: inter-word;
 }
+
+.main-title {
+    font-size: 50px;
+    font-weight: bold;
+}
